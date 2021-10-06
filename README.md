@@ -1,4 +1,4 @@
-![Vid2Go Demo](https://img.youtube.com/vi/YsvVIjHQqTo/0.jpg)
+![Vid2Go Demo](https://img.youtube.com/vi/YsvVIjHQqTo/1.jpg)
 
 ## Inspiration
 Inspired from :
